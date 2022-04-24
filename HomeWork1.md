@@ -312,4 +312,5 @@ git branch NewProject
 git checkout NewProject
 git branch
 ```
-Рассмотрим 2 способа созданию `Pull request`.
+Рассмотрим 2 способа создания `Pull request`.
+1. Помещаем свой локальный проект на [GitHub](https://github.com).
