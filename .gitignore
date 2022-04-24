@@ -1,4 +1,5 @@
 # Исключаем все файлы с расширение png и jpeg.
+*png
 *.jpeg
 Исключаем  файл HomeWork2.md
 HomeWork2.md
